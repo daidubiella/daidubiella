@@ -12,6 +12,10 @@
 
 ## 🌱 Projetos em Destaque:
 
+## 🛠️ Tech Skills:
+- **Microsoft Power BI**
+- **R**
+- **Excel**
 
 ## 📫 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/daidubiella/
